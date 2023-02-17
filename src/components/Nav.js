@@ -10,7 +10,7 @@ const useStyles = createUseStyles((theme) => ({
     padding: "24px 0",
   },
   navLink: {
-    margin: "0px 40px",
+    margin: "0px 20px",
     color: theme.colors.grey,
     fontSize: "18px",
     textDecoration: "none",
@@ -51,6 +51,14 @@ const Nav = () => {
         to={ROUTES_NAMES.modernWonders.path}
       >
         {ROUTES_NAMES.modernWonders.name}
+      </NavLink>
+      <NavLink
+        className={({ isActive }) =>
+          cx(classes.navLink, isActive && classes.active)
+        }
+        to={ROUTES_NAMES.naturalWonders.path}
+      >
+        {ROUTES_NAMES.naturalWonders.name}
       </NavLink>
     </div>
   );

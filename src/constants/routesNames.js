@@ -11,4 +11,8 @@ export const ROUTES_NAMES = {
     path: "/modern-wonders",
     name: "Modern Wonders",
   },
+  naturalWonders: {
+    path: "/natural-wonders",
+    name: "Wonders of the natural",
+  },
 };

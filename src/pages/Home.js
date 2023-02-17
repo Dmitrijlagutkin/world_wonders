@@ -29,9 +29,7 @@ const Home = () => {
         <p className={classes.description}>
           Over the centuries, people have compiled a variety of lists of wonders
           of the worldin order to highlight the most outstanding creations of
-          natural perfection from the total number. Most often, such lists were
-          limited to seven laureates , following the ancient seven wonders of
-          the world , but more extended or narrower lists are also found.
+          natural perfection from the total number.
         </p>
       </div>
     </div>
