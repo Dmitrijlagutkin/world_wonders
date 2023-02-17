@@ -40,7 +40,29 @@ const ancientData = [
     image: Zeus,
   },
   {
-    id: "3",
+    id: "4",
+    name: "Statue of Zeus at Olympia",
+    bescription:
+      "Is the only one of the Seven Wonders of the World , which was located in mainland Europe (in the city of Olympia). The statue of Zeus at Olympia  is the third wonder of the ancient world. ",
+    image: Zeus,
+  },
+  // under here the same
+  {
+    id: "5",
+    name: "Statue of Zeus at Olympia",
+    bescription:
+      "Is the only one of the Seven Wonders of the World , which was located in mainland Europe (in the city of Olympia). The statue of Zeus at Olympia  is the third wonder of the ancient world. ",
+    image: Zeus,
+  },
+  {
+    id: "6",
+    name: "Statue of Zeus at Olympia",
+    bescription:
+      "Is the only one of the Seven Wonders of the World , which was located in mainland Europe (in the city of Olympia). The statue of Zeus at Olympia  is the third wonder of the ancient world. ",
+    image: Zeus,
+  },
+  {
+    id: "7",
     name: "Statue of Zeus at Olympia",
     bescription:
       "Is the only one of the Seven Wonders of the World , which was located in mainland Europe (in the city of Olympia). The statue of Zeus at Olympia  is the third wonder of the ancient world. ",
